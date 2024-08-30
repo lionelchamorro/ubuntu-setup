@@ -44,4 +44,4 @@ After running the script:
 ## Troubleshooting
 
 If you encounter any issues, ensure all required files are correctly placed in the `~/Programs/` directory and re-run the script. For any specific errors, consult the script output for more details.
-```
+
